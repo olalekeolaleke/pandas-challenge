@@ -1,30 +1,26 @@
 # Unit 1: Excel
 
-## Overview
+## Objectives
 
-### Slideshows
+* Have an understanding of the course structure and general direction of the program
+* Be familiar with high-level analytic strategies and tools.
+* Have introduced themselves and completed icebreaker activities.
+* Demonstrate basic Excel navigation and functionality.
+* Explain the value and use of pivot tables.
+* Use VLOOKUPs and HLOOKUPs.
+* Implement conditional formatting based on logical rules.
+* Create, modify, and stylize basic charts from start to finish in Microsoft Excel.
+* Create scatter plots and trend lines.
+* Create charts that contain filtered data.
+* Create regressions and calculate moving averages in Excel.
 
-* [1.1 Introduction to Data](https://docs.google.com/presentation/d/1ESJhuhECbf9gQRIfJ9FU-a-iZueb6lKkqSSPOqZ5SPQ/edit?usp=sharing)
-* [1.2  Data Fundamentals in Excel](https://docs.google.com/presentation/d/1fvwswAFXdzbOyjS7t7FsNdOeS3j4VzPiwflIJ1id2sI/edit?usp=sharing)
-* [1.3 Charting a New Course With Excel](https://docs.google.com/presentation/d/1GYnNWroWzp4sETcRt_fsIsE5Z9kk4tXG68HQ00x7AeU/edit?usp=sharing)
+- - -
 
-### Lesson Plans
+## Helpful Links
 
-* [1.1 Lesson Plan](../../01-Lesson-Plans/01-Excel/1/LessonPlan.md)
-* [1.2 Lesson Plan](../../01-Lesson-Plans/01-Excel/2/LessonPlan.md)
-* [1.3 Lesson Plan](../../01-Lesson-Plans/01-Excel/3/LessonPlan.md)
-
-### Homework
-
-[Homework Instructions](../../02-Homework/01-Excel/Instructions/README.md)
-
-### Career Connection
-
-Each week, students will review a Career Connection document in the [04-Career-Modules folder](../../04-Career-Modules/). This document relates each week's material to a professional setting, encourages students to complete certain Career Services tasks, and provides examples of technical interview questions, where applicable.
-
-This week, please push the entire folder to the student repository so that students can access these files, and let students know that they can find related Career Services materials in this supplemental folder.
-
-If you'd like more information about career services, visit our [Career Engagement Network page](https://careernetwork.2u.com/?utm_medium=Academics&utm_source=boot_camp%29).
+* [Storytelling With Data](http://www.storytellingwithdata.com/)
+* [Excel Data Analysis](https://www.wiley.com/WileyCDA/WileyTitle/productCd-1118517148,miniSiteCd-BSG.html)
+* [Advanced Excel Essentials](https://www.apress.com/us/book/9781484207352)
 
 - - -
 
